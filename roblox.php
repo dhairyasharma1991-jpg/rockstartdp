@@ -1,7 +1,7 @@
 <?php
 $message = "";
 
-// ===== Background Image =====
+// ===== background-image: url('GAME.JPG'); =====
 $bgPath = "C:/Users/karan/OneDrive/Pictures/GAME.jpg";
 $bgImage = "";
 
